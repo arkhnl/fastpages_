@@ -1,1 +1,1 @@
-Sitemap: https://arkhnl.github.io/fastpages_/sitemap.xml
+Sitemap: https://arkhnl.github.io/ak_blog/sitemap.xml
